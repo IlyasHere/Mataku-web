@@ -1,6 +1,6 @@
-# OcuSense
+# Mataku
 
-OcuSense adalah web prediksi risiko Dry Eye Disease berdasarkan pola tidur, tingkat stres, dan penggunaan perangkat digital menggunakan metode Fuzzy Mamdani dan Fuzzy Sugeno.
+Mataku adalah web prediksi risiko Dry Eye Disease berdasarkan pola tidur, tingkat stres, dan penggunaan perangkat digital menggunakan metode Fuzzy Mamdani dan Fuzzy Sugeno.
 
 ## Tujuan Project
 
