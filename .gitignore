@@ -13,6 +13,3 @@ frontend/dist/
 
 # Env
 .env
-
-# Codex local instruction
-AGENTS.md
