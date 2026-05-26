@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# System
+.DS_Store
+
+# Env
+.env
+
+# Codex local instruction
+AGENTS.md
